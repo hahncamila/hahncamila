@@ -16,5 +16,5 @@
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div><br><br>
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas e aluna do curso de Desenvoledor Front-end da Escola DNC, área pela qual venho me apaixonando cada dia mais!</p>
+<p> Sou estudante de Análise e Desenvolvimento de Sistemas e aluna do curso de Desenvolvedor Front-end da Escola DNC, área pela qual venho me apaixonando cada dia mais!</p>
 <p>📧 Contato: camilamhahn@gmail.com</p>
