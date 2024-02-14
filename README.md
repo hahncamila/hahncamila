@@ -3,8 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilahahn/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hahn.camila/)
 <br><br><br>
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=hahncamila&show_icons=true&theme=dracula)
-<br><br>
 ### Tecnologias que eu utilizo em meus projetos no momento
 <div style="display: inline_block">
   <img align="center" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
