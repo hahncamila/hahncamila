@@ -16,5 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahncamila&show_icons=true&theme=dracula)](https://github.com/hahncamila/github-readme-stats)
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas e aluna do curso de Desenvolvedor Front-end da Escola DNC, área pela qual venho me apaixonando cada dia mais!</p>
+<p> Sou estudante de Análise e Desenvolvimento de Sistemas e aluna do curso de Desenvolvedor Front-end da Escola DNC!</p>
 <p>📧 Contato: camilamhahn@gmail.com</p>
