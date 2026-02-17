@@ -1,4 +1,4 @@
-### Olá! Eu sou a Cami Hahn 👩🏻‍💻
+### Olá! Eu sou a Camila Hahn 👩🏻‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilahahn/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hahn.camila/)
@@ -16,5 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahncamila&show_icons=true&theme=dracula)](https://github.com/hahncamila/github-readme-stats)
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas e do curso de Desenvolvedor Front-end da Escola DNC!</p>
+<p> Sou formada em Análise e Desenvolvimento de Sistemas e no curso de Desenvolvedor Front-end da Escola DNC!</p>
 <p>📧 Contato: camilamhahn@gmail.com</p>
