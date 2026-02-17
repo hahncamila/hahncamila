@@ -5,7 +5,7 @@
 <br><br>
 ### Tecnologias que eu utilizo em meus projetos no momento
 
-VSCODE | HTML5 | CSS3 | JAVASCRIPT | NETLIFY | FIGMA | MONGO DB | REACT.JS | NODE.JS | TYPESCRIPT | DOCKER | GIT | GITLAB | JIRA
+VS CODE | HTML5 | CSS3 | JAVASCRIPT | NETLIFY | FIGMA | MONGO DB | REACT.JS | NODE.JS | TYPESCRIPT | DOCKER | GIT | GITLAB | JIRA
 <br><br>
 
 Inglês: Intermediário (B1)
