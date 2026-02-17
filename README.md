@@ -10,5 +10,5 @@ VS CODE | HTML5 | CSS3 | JAVASCRIPT | NETLIFY | FIGMA | MONGO DB | REACT.JS | NO
 
 Inglês: Intermediário (B1)
 
-<p> Sou formada em Análise e Desenvolvimento de Sistemas e no curso de Desenvolvedor Front-end da Escola DNC|! Atuo como Desenvolvedora Full Stack!</p>
+<p> Sou formada em Análise e Desenvolvimento de Sistemas e no curso de Desenvolvedor Front-end da Escola DNC! Atuo como Desenvolvedora Full Stack!</p>
 <p>📧 Contato: camilamhahn@gmail.com</p>
